@@ -60,7 +60,7 @@ function Home() {
             throwError()
           }}
         >
-          Throw an Error
+          Throw an Error - Test
         </Button>
       </div>
       <hr className={styles.hr} />
